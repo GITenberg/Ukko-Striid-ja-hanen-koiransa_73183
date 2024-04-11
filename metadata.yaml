@@ -1,0 +1,42 @@
+_repo: Ukko-Striid-ja-hanen-koiransa_73183
+_version: 0.0.1
+alternative_title: Gubben Strid och hunden Frid. Finnish
+contributor:
+  translator:
+    agent_name: Hagfors, Johan Fridolf
+    alias: Hagfors, J. F.
+    birthdate: 1857
+    deathdate: 1931
+    gutenberg_agent_id: '51366'
+    url: http://www.gutenberg.org/2009/agents/51366
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Johan_Fridolf_Hagfors
+    - https://en.wikipedia.org/wiki/Johan_Fridolf_Hagfors
+creator:
+  author:
+    agent_name: Thomasson, Pehr
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '36449'
+    url: http://www.gutenberg.org/2009/agents/36449
+    wikipedia: https://sv.wikipedia.org/wiki/Pehr_Thomasson
+description: ''
+gutenberg_issued: '2024-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73183'
+language: fi
+pgterms:marc905: 20220621092548thomasson
+pgterms:marc906: '1881'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo :$bWerner Söderström, $c1881.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: Ukko Striid ja hänen koiransa
+url: http://www.gutenberg.org/ebooks/73183
