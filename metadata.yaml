@@ -12,6 +12,9 @@ contributor:
     wikipedia:
     - https://fi.wikipedia.org/wiki/Johan_Fridolf_Hagfors
     - https://en.wikipedia.org/wiki/Johan_Fridolf_Hagfors
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thomasson, Pehr
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36449
     wikipedia: https://sv.wikipedia.org/wiki/Pehr_Thomasson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73183#Ukko-Striid-ja-hanen-koiransa
 gutenberg_issued: '2024-03-16'
 gutenberg_type: Text
 identifiers:
